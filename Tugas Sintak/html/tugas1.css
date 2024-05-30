@@ -1,0 +1,147 @@
+
+.Header {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(253, 239, 220);
+    display: flex;
+    align-items: center;
+}
+
+.Header > .Logo  img {
+    width: 90px;
+    height: 90px;
+}
+
+.Header > .Nama  h1 {
+    font-size: 24px;
+    font-family: "Satisfy", cursive;
+    width: fit-content;
+    padding: auto; 
+    margin-top: 20px;
+    color: rgb(211, 172, 127);
+}
+
+.Header > .Nama p {
+    margin-top: -20px;
+    font-size: 8px;
+}
+
+.text {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    padding: auto; 
+    margin-top: 20px;
+    background-color: rgb(253, 239, 220);
+    justify-content: center;
+}
+
+.text > .gunting img {
+    width: 100px;
+    height: 60px;
+    align-items: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: rgb(211, 172, 127);
+    
+}
+
+.text > .PenGunting h5 {
+    font-size: 10px;
+    font-family: "Satisfy", sans-serif ;
+    display: flex;
+    align-items: center;
+}
+
+.text > .PenGunting p {
+    font-size: 10px;
+    margin-top: -10px;
+}
+
+.text2 {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    padding: auto; 
+    margin-top: 20px;
+    background-color: rgb(253, 239, 220);
+    justify-content: center;
+}
+
+.text2 > .money img {
+    width: 70px;
+    height: 40px;
+    align-items: center;
+}
+
+.text2 > .PenMoney h5 {
+    font-size: 10px;
+    font-family: "Satisfy", "sans-serif";
+    display: flex;
+    align-items: center;
+}
+
+.text2 > .PenMoney p {
+    font-size: 10px;
+    margin-top: -10px;
+}
+
+.text3 {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    padding: auto; 
+    margin-top: 20px;
+    background-color: rgb(253, 239, 220);
+    justify-content: center;
+}
+
+.text3 > .hand img {
+    width: 70px;
+    height: 40px;
+    align-items: center;
+}
+
+.text3 > .PenHand h5 {
+    font-size: 10px;
+    font-family: "Satisfy", "sans-serif";
+    display: flex;
+    align-items: center;
+}
+
+.text3 > .PenHand p {
+    font-size: 10px;
+    margin-top: -10px;
+}
+
+
+.image > img{
+    width: fit-content;
+    padding-left: 20px;
+    margin-left: 20px;
+    align-items: center;
+}
+
+.image > .a {
+    width: 170px;
+    height: 200px ;
+}
+
+.image > .b {
+    width: 350px;
+    height: 200px;
+}
+
+.image > .c {
+    width: 400px;
+    height: 200px;
+}
+
+.image > .d {
+    width: 150px;
+    height: 200px;
+}
